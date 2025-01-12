@@ -1,4 +1,4 @@
-# hola-Git
+# repositorio uno en el curso de git
 primer repo creado en github
 
 ## Descripcion 
