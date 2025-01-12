@@ -1,5 +1,5 @@
-nombre = "pepito"
-apellido = "pepe"
+nombre = "pepeto"
+apellido = "loremIpsum"
 
 #como estas
 
