@@ -1,4 +1,4 @@
-nombre = "loremaererereerere"
+nombre = "lolisad"
 apellido = "loremIpsum"
 
 #como estas
