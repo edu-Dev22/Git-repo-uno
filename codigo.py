@@ -1,4 +1,4 @@
-nombre = "brighton"
+nombre = "nirvana"
 apellido = "loremIpsum"
 
 ##esto es un archivo creado para praticar git
