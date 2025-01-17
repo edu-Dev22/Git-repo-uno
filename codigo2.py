@@ -1,2 +1,2 @@
-nombre = "mundial"
+nombre = "world"
 print("hola" + nombre)
